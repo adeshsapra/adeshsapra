@@ -1,47 +1,36 @@
-<h1 align="center">👋 Hi, I'm Adesh Sapra</h1>
+# Adesh Sapra
 
-<p align="center">
-🌍 Web Developer from Gujarat, India • 💻 Laravel & MySQL Enthusiast • 🎓 BCA Graduate  
-</p>
-
----
-
-## 🧑‍💻 About Me
-
-- 🧠 Passionate about turning ideas into functional web apps  
-- 🔨 Skilled in PHP (Laravel), MySQL, JavaScript, HTML5 & CSS3  
-- 🚀 Recently completed academic projects and ready to take on real-world challenges  
-- 🤝 Open to internships, freelance work, and full-time opportunities  
-- ✉️ Reach me at **adeshsapra07@gmail.com**
+**Web Developer** | Laravel & PHP Enthusiast | BCA Graduate  
+Gujarat, India · [adeshsapra07@gmail.com](mailto:adeshsapra07@gmail.com)
 
 ---
 
-## 🚀 Tech Stack
+## 👨‍💻 About Me
 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+I’m a recent **BCA graduate** with a strong foundation in web development and a focus on creating reliable, scalable, and clean web applications.  
+My development experience is rooted in building real-world academic projects using **Laravel**, **PHP**, **MySQL**, and front-end technologies.
+
+I’m currently looking for **entry-level opportunities** where I can grow as a developer, contribute to real products, and keep learning.
 
 ---
 
-## 🌐 Connect with Me
+## 🛠 Skills & Tools
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/adesh-sapra-656932340" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/adeshsapra" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
+- **Languages:** PHP, JavaScript, HTML5, CSS3  
+- **Frameworks & Libraries:** Laravel  
+- **Database:** MySQL  
+- **Tools & Platforms:** Git, GitHub, VS Code  
+- **Other:** Responsive Design, REST APIs, Problem-Solving
 
 ---
 
-<p align="center">
-Thanks for stopping by — this is just the beginning! 🚀
-</p>
+## 📫 Get in Touch
+
+- 📧 Email: [adeshsapra07@gmail.com](mailto:adeshsapra07@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/adesh-sapra-656932340](https://www.linkedin.com/in/adesh-sapra-656932340)  
+- 🖥️ GitHub: [github.com/adeshsapra](https://github.com/adeshsapra)
+
+---
+
+Thank you for checking out my profile.  
+*I’m always open to learning, feedback, and collaboration.*
