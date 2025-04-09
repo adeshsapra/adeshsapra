@@ -19,8 +19,8 @@ I’m currently looking for **entry-level opportunities** where I can grow as a 
 - **Languages:** PHP, JavaScript, HTML5, CSS3  
 - **Frameworks & Libraries:** Laravel  
 - **Database:** MySQL  
-- **Tools & Platforms:** Git, GitHub, VS Code  
-- **Other:** Responsive Design, REST APIs, Problem-Solving
+- **Tools & Platforms:** GitHub, VS Code  
+- **Other:** Responsive Design, Problem-Solving
 
 ---
 
