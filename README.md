@@ -1,4 +1,4 @@
-# Adesh Sapra
+# 👋 Hi, I'm Adesh Sapra
 
 **Web Developer** | Laravel & PHP Enthusiast | BCA Graduate  
 Gujarat, India · [adeshsapra07@gmail.com](mailto:adeshsapra07@gmail.com)
@@ -27,10 +27,10 @@ I’m currently looking for **entry-level opportunities** where I can grow as a 
 ## 📫 Get in Touch
 
 - 📧 Email: [adeshsapra07@gmail.com](mailto:adeshsapra07@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/adesh-sapra-656932340](https://www.linkedin.com/in/adesh-sapra-656932340)  
+- 💼 LinkedIn: [linkedin.com/in/adeshsapra](https://www.linkedin.com/in/adesh-sapra-656932340)  
 - 🖥️ GitHub: [github.com/adeshsapra](https://github.com/adeshsapra)
 
 ---
 
-Thank you for checking out my profile.  
-*I’m always open to learning, feedback, and collaboration.*
+Thanks for checking out my profile!  
+*Always open to learning, feedback, and collaboration.*
